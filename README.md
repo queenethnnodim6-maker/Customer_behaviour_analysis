@@ -1,4 +1,4 @@
-# Customer Behaviour & Buying Pattern Analysis
+# Customer Behaviour Analysis
 
 ## Project Overview
 
